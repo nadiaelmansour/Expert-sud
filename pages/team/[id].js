@@ -32,12 +32,9 @@ const TeamDetails = ({teamData}) => {
     const socialIcon = (type) => {
         if (type === "facebook") return "facebook-f";
         else if (type === "twitter") return "twitter";
-        else if (type === "pinterest") return "pinterest-p";
         else if (type === "linkedin") return "linkedin-in";
         else if (type === "instagram") return "instagram";
-        else if (type === "vimeo") return "vimeo-v";
-        else if (type === "dribble") return "dribbble";
-        else if (type === "behance") return "behance";
+        
     };
 
     return (

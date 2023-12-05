@@ -41,8 +41,8 @@ const ContactFormOne = () => {
     <form ref={form} onSubmit={sendEmail}>
       <Input name="name" label="Name" isClear={isMessageSent} />
       <Input name="email" label="Email" type="email" isClear={isMessageSent} />
-      <Input name="company" label="Company" isClear={isMessageSent} />
-      <Input name="phone" label="Phone" isClear={isMessageSent} />
+      <Input name="phone" label="phone" isClear={isMessageSent} />
+      <Input name="message" label="Your message" type="textarea" isClear={isMessageSent}/>
       <div className="form-group">
         <button className="axil-button btn-large btn-transparent w-100">
           <span className="button-text">Get Pricing Now</span>

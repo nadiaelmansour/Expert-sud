@@ -84,7 +84,8 @@
 /*-- Variables --*/
 @import url("https://fonts.googleapis.com/css?family=DM+Sans:400,400i,500,500i,700&display=swap");
 :root {
-  --color-primary: #702FFF;
+  --color-primary: #49CCFF;
+  /* --color-primary:#702FFF */
   --color-primary-alt: #505CFD;
   --color-secondary: #00D09C;
   --color-tertiary: #FFCD3E;
@@ -10868,7 +10869,7 @@ textarea:-ms-input-placeholder {
 
 /*======= Common Style Css ======*/
 .primary-color {
-  color: #702FFF !important;
+  color: #49CCFF !important;
 }
 
 .secondary-color {
