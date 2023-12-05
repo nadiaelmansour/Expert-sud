@@ -9,11 +9,8 @@
       { "type": "facebook-f", "url": "https://www.facebook.com/" },
       { "type": "twitter", "url": "https://twitter.com/" },
       { "type": "linkedin", "url": "https://www.linkedin.com/" },
-      { "type": "pinterest", "url": "https://www.pinterest.com/" },
-      { "type": "instagram", "url": "https://www.instagram.com/" },
-      { "type": "vimeo-v", "url": "https://vimeo.com/" },
-      { "type": "dribbble", "url": "https://dribbble.com/" },
-      { "type": "behance", "url": "https://www.behance.net/" }
+      { "type": "instagram", "url": "https://www.instagram.com/" }
+      
     ]
   },
   {
@@ -26,11 +23,8 @@
       { "type": "facebook-f", "url": "https://www.facebook.com/" },
       { "type": "twitter", "url": "https://twitter.com/" },
       { "type": "linkedin", "url": "https://www.linkedin.com/" },
-      { "type": "pinterest", "url": "https://www.pinterest.com/" },
-      { "type": "instagram", "url": "https://www.instagram.com/" },
-      { "type": "vimeo-v", "url": "https://vimeo.com/" },
-      { "type": "dribbble", "url": "https://dribbble.com/" },
-      { "type": "behance", "url": "https://www.behance.net/" }
+      { "type": "instagram", "url": "https://www.instagram.com/" }
+      
     ]
   },
   {
@@ -43,11 +37,8 @@
       { "type": "facebook-f", "url": "https://www.facebook.com/" },
       { "type": "twitter", "url": "https://twitter.com/" },
       { "type": "linkedin", "url": "https://www.linkedin.com/" },
-      { "type": "pinterest", "url": "https://www.pinterest.com/" },
-      { "type": "instagram", "url": "https://www.instagram.com/" },
-      { "type": "vimeo-v", "url": "https://vimeo.com/" },
-      { "type": "dribbble", "url": "https://dribbble.com/" },
-      { "type": "behance", "url": "https://www.behance.net/" }
+      { "type": "instagram", "url": "https://www.instagram.com/" }
+      
     ]
   },
   {
@@ -60,11 +51,8 @@
       { "type": "facebook-f", "url": "https://www.facebook.com/" },
       { "type": "twitter", "url": "https://twitter.com/" },
       { "type": "linkedin", "url": "https://www.linkedin.com/" },
-      { "type": "pinterest", "url": "https://www.pinterest.com/" },
-      { "type": "instagram", "url": "https://www.instagram.com/" },
-      { "type": "vimeo-v", "url": "https://vimeo.com/" },
-      { "type": "dribbble", "url": "https://dribbble.com/" },
-      { "type": "behance", "url": "https://www.behance.net/" }
+      { "type": "instagram", "url": "https://www.instagram.com/" }
+      
     ]
   }
 ]

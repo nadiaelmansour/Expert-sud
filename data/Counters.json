@@ -7,7 +7,7 @@
       "src": "/images/counterup/shape-01.png"
     },
     "amount": 15,
-    "title": "Years of operation"
+    "title": "Projets réalisés "
   },
   {
     "id": 2,
@@ -17,7 +17,7 @@
       "src": "/images/counterup/shape-02.png"
     },
     "amount": 360,
-    "title": "Projects deliverd"
+    "title": "Clients exclusifs"
   },
   {
     "id": 3,
@@ -27,7 +27,7 @@
       "src": "/images/counterup/shape-03.png"
     },
     "amount": 600,
-    "title": "Specialist"
+    "title": "Experts"
   },
   {
     "id": 4,
@@ -37,6 +37,6 @@
       "src": "/images/counterup/shape-04.png"
     },
     "amount": 64,
-    "title": "Years of operation"
+    "title": "Taux de succès"
   }
 ]

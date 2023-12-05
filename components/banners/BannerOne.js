@@ -16,7 +16,7 @@ const BannerOne = () => {
                                     data-aos="aos-fade-in-up"
                                     data-aos-duration="1000"
                                 >
-                                    Build stunning websites & apps.
+                                    Think, Plan, Do. 
                                 </h1>
                                 <p
                                     className="subtitle-3"
@@ -24,15 +24,15 @@ const BannerOne = () => {
                                     data-aos-duration="1000"
                                     data-aos-delay="200"
                                 >
-                                    Create live segments and target the right people for
-                                    <br/> messages based on their behaviors.
+                                    Expert Sud est un bureau d tudes en ingénierie de développement et transformation digitale qui vous accompagne tout au long de votre projet avec la sincérité et le respect des règles de l art de la profession. 
+                                    <br/>
                                 </p>
                                 <Link href="/portfolio">
                                     <a className="axil-button btn-large btn-transparent"
                                        data-aos="aos-fade-in-up"
                                        data-aos-duration="1000"
                                        data-aos-delay="400">
-                                        <span className="button-text">View Showcase</span>
+                                        <span className="button-text">Commencez aujourd hui</span>
                                         <span className="button-icon"/>
                                     </a>
                                 </Link>

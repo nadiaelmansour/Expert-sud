@@ -55,11 +55,11 @@ const SliderOne = () => {
                                                 <span className="sub-title extra04-color">
                                                   {item.subtitle}
                                                 </span>
-                                                <h2 className="title">
+                                                <h3 className="title">
                                                     <Link href={`/case-study/${slugify(CaseStudyData[0].title)}`}>
                                                         <a>{item.title}</a>
                                                     </Link>
-                                                </h2>
+                                                </h3>
                                                 <p className="subtitle-2">{item.description}</p>
                                                 <Link href={`/case-study/${slugify(CaseStudyData[0].title)}`}>
                                                     <a className="axil-button btn-large btn-transparent">
