@@ -6,7 +6,7 @@ import {camelCaseToDashed} from '../../helpers/utilities';
 import SectionTitle from '../common/SectionTitle';
 
 const ServiceThree = () => {
-    const [servicesOurValues, setServicesOurValues] = useState([]);
+    const [servicesOurValues,setServicesOurValues] = useState([]);
 
     const getServicesByCategory = () => {
         const ourValues = ServiceData.filter(
