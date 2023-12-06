@@ -6,7 +6,7 @@ import {camelCaseToDashed} from '../../helpers/utilities';
 import SectionTitle from '../common/SectionTitle';
 
 const ServiceThree = () => {
-    const [servicesOurValues, setServicesOurValues] = useState([]);
+    const [servicesOurValues,setServicesOurValues] = useState([]);
 
     const getServicesByCategory = () => {
         const ourValues = ServiceData.filter(
@@ -35,9 +35,7 @@ const ServiceThree = () => {
                 <div className="row">
                     <div className="col-lg-12">
                         <SectionTitle
-                            title="Why should you work with us?"
-                            subtitle="our valus"
-                            description="Nulla facilisi. Nullam in magna id dolor blandit rutrum eget vulputate augue sed eu leo eget risus imperdiet."
+                            title="Pourquoi EXPERT SUD?"
                             color="extra08-color"
                             alignment="center"
                         />

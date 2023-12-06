@@ -70,7 +70,7 @@ const About = () => {
             <main className="page-wrapper">
                 <BannerSeven/>
 
-                <div
+                {/* <div
                     ref={ref}
                     className="axil-featured-area ax-section-gap bg-color-white"
                 >
@@ -140,7 +140,7 @@ const About = () => {
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> */}
 
                 <ServiceThree/>
 

@@ -3,8 +3,8 @@ import Image from "next/image";
 
 const BannerSeven = (
     {
-        title = "One of the fastest growing agency",
-        subtitle = "We design and develop web and mobile applications for our clients worldwide.",
+        title = "EXPERT SUD",
+        subtitle = "Bureau de conseil\, marketing\, digitalisation\, ingénierie\, stratégie\, attractivité\, développement\, créativité\, ecosystem et expertise technique .",
         thumbnailImageOne = "/images/slider/white-shape.png",
         thumbnailImageTwo = "/images/slider/banner-about.svg",
     }
