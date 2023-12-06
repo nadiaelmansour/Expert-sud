@@ -75,7 +75,7 @@ const Services = () => {
     return (
         <Layout>
             <Head>
-                <title>Services || keystroke Creative Agency Bootstrap5 Template</title>
+                <title>Expert sud</title>
             </Head>
 
             <main className="page-wrapper">
@@ -94,7 +94,7 @@ const Services = () => {
                                     }`}
                                     href="#section1"
                                 >
-                                    Design
+                                    marketing Digital
                                 </a>
                             </li>
                             <li className="nav-item">
@@ -107,7 +107,7 @@ const Services = () => {
                                     Development
                                 </a>
                             </li>
-                            <li className="nav-item">
+                            {/* <li className="nav-item">
                                 <a
                                     className={`nav-link smoth-animation ${
                                         activeServiceSection === "section3" ? "active" : ""
@@ -116,15 +116,15 @@ const Services = () => {
                                 >
                                     Online marketing
                                 </a>
-                            </li>
+                            </li> */}
                             <li className="nav-item">
                                 <a
                                     className={`nav-link smoth-animation ${
                                         activeServiceSection === "section4" ? "active" : ""
                                     }`}
-                                    href="#section4"
+                                    href="#section3"
                                 >
-                                    Business
+                                    Design
                                 </a>
                             </li>
                             <li className="nav-item">
@@ -132,7 +132,7 @@ const Services = () => {
                                     className={`nav-link smoth-animation ${
                                         activeServiceSection === "section5" ? "active" : ""
                                     }`}
-                                    href="#section5"
+                                    href="#section4"
                                 >
                                     Technology
                                 </a>
@@ -142,7 +142,7 @@ const Services = () => {
                                     className={`nav-link smoth-animation ${
                                         activeServiceSection === "section6" ? "active" : ""
                                     }`}
-                                    href="#section6"
+                                    href="#section5"
                                 >
                                     Content strategy
                                 </a>
@@ -166,7 +166,7 @@ const Services = () => {
                     ))}
                 </div>
 
-                <CallToActionOne/>
+                {/* <CallToActionOne/> */}
             </main>
         </Layout>
     );
