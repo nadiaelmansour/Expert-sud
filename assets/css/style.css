@@ -84,7 +84,7 @@
 /*-- Variables --*/
 @import url("https://fonts.googleapis.com/css?family=DM+Sans:400,400i,500,500i,700&display=swap");
 :root {
-  --color-primary: #49CCFF;
+  --color-primary: #09d9fa;
   /* --color-primary:#702FFF */
   --color-primary-alt: #505CFD;
   --color-secondary: #00D09C;
@@ -5285,7 +5285,7 @@ textarea:-ms-input-placeholder {
   text-decoration: none;
   background: #fff;
   line-height: 80px;
-  color: #757589;
+  color: #101085;
   font-size: 15px;
   font-weight: 400;
   display: inline-block;

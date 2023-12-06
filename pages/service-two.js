@@ -129,7 +129,7 @@ const ServiceTwo = () => {
                     </div>
                 </div>
 
-                <CallToActionOne/>
+                {/* <CallToActionOne/> */}
             </main>
         </Layout>
     );

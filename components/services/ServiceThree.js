@@ -35,9 +35,9 @@ const ServiceThree = () => {
                 <div className="row">
                     <div className="col-lg-12">
                         <SectionTitle
-                            title="Why should you work with us?"
+                            title="Pourquoi devriez-vous travailler avec nous ?"
                             subtitle="our valus"
-                            description="Nulla facilisi. Nullam in magna id dolor blandit rutrum eget vulputate augue sed eu leo eget risus imperdiet."
+                            description="Notre agence de marketing digital vous fourniture variété de services, depuis la création de sites Web jusqu'à l'inftuit campagnes de marketing, afin d'avoir plus d'engagemante - plus de prospects et plus de ventes ."
                             color="extra08-color"
                             alignment="center"
                         />

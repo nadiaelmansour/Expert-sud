@@ -21,7 +21,7 @@ const AboutOne = () => {
                   data-aos-duration="1000"
                   data-aos-delay="200"
                 >
-                  Are you ready to grow your business?  <br /> Contact us!
+                  Vous avez un projet ? Notre bureau vous aide également à le construire.   <br /> Contactez-nous!
                 </h2>
                 <p
                   className="subtitle-2 mb--50 mb_lg--20 mb_md--20 mb_sm--15"

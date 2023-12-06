@@ -292,7 +292,7 @@ const BlogDetails = ({blogdata, slug, content, allPosts}) => {
                     </div>
                 </div>
 
-                <CallToActionOne/>
+                {/* <CallToActionOne/> */}
             </main>
         </Layout>
     );

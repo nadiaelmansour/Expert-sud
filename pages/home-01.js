@@ -46,7 +46,7 @@ const HomeOne = ({posts}) => {
 
                 {/* <BlogOne posts={posts.slice(0, 2)}/> */}
 
-                <CallToActionOne/>
+                {/* <CallToActionOne/> */}
             </main>
         </Layout>
     );
