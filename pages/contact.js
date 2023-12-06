@@ -9,7 +9,7 @@ const Contact = () => {
     return (
         <Layout>
             <Head>
-                <title>Contact || keystroke Creative Agency Bootstrap5 Template</title>
+                <title>Expert Sud</title>
             </Head>
 
             <Breadcrumb title="Contact" current="Contact"/>
@@ -40,12 +40,11 @@ const Contact = () => {
                                             <div className="content">
                                                 <h4 className="title">Phone</h4>
                                                 <p>
-                                                    Our customer care is open from Mon-Fri, 10:00 am to
-                                                    6:00 pm
+                                                Notre service client est ouvert du lundi au vendredi, de 10h00 à 18h00
                                                 </p>
                                                 <p>
-                                                    <a className="axil-link" href="tel:1234567890">
-                                                        (123) 456 7890
+                                                    <a className="axil-link" href="tel:+212 525 145 584">
+                                                        +212 525 145 584
                                                     </a>
                                                 </p>
                                             </div>
@@ -64,15 +63,14 @@ const Contact = () => {
                                             <div className="content">
                                                 <h4 className="title">Email</h4>
                                                 <p>
-                                                    Our support team will get back to in 48-h during
-                                                    standard business hours.
+                                                Notre équipe d assistance vous répondra dans les 48 heures pendant les heures de bureau standard.
                                                 </p>
                                                 <p>
                                                     <a
                                                         className="axil-link"
-                                                        href="mailto:example@gmail.com"
+                                                        href="mailto:contact@expert-sud.ma"
                                                     >
-                                                        example@gmail.com
+                                                        contact@expert-sud.ma
                                                     </a>
                                                 </p>
                                             </div>
@@ -95,7 +93,7 @@ const Contact = () => {
                     </div>
                 </div>
 
-                <div className="axil-office-location-area ax-section-gap bg-color-lightest">
+                {/* <div className="axil-office-location-area ax-section-gap bg-color-lightest">
                     <div className="container">
                         <div className="row">
                             <div className="col-lg-12">
@@ -217,7 +215,7 @@ const Contact = () => {
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> */}
             </main>
         </Layout>
     );

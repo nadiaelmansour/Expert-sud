@@ -89,7 +89,7 @@ const Blog = ({posts}) => {
                     </div>
                 </div>
 
-                <CallToActionOne/>
+                {/* <CallToActionOne/> */}
             </main>
         </Layout>
     );

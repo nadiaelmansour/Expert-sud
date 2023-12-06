@@ -20,7 +20,7 @@ const HomeOne = ({posts}) => {
     return (
         <Layout>
             <Head>
-                <title>Home 01 || keystroke Creative Agency Bootstrap5 Template</title>
+                <title>Expert Sud</title>
             </Head>
 
             <main className="page-wrapper">
@@ -46,7 +46,7 @@ const HomeOne = ({posts}) => {
 
                 {/* <BlogOne posts={posts.slice(0, 2)}/> */}
 
-                <CallToActionOne/>
+                {/* <CallToActionOne/> */}
             </main>
         </Layout>
     );

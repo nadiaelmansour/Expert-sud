@@ -59,7 +59,7 @@ const ServiceDetails = ({service}) => {
 
                 <PortfolioTwo/>
 
-                <CallToActionOne/>
+                {/* <CallToActionOne/> */}
             </div>
         </Layout>
     );

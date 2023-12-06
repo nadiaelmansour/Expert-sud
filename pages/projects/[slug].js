@@ -231,7 +231,7 @@ const ProjectDetails = ({caseStudy}) => {
 
                 <WorkingProcess process={caseStudy.process}/>
 
-                <CallToActionOne/>
+                {/* <CallToActionOne/> */}
 
                 {isWindow && <VideoPlayer url={caseStudy.videoUrl}/>}
             </main>

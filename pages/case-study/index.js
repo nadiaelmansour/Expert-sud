@@ -108,7 +108,7 @@ const CaseStudy = () => {
                     </div>
                 </div>
 
-                <CallToActionOne/>
+                {/* <CallToActionOne/> */}
             </main>
         </Layout>
     );

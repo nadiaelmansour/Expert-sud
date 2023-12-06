@@ -98,21 +98,18 @@ const About = () => {
                                 <div className="inner">
                                     <div className="section-title text-start">
                                         <span className="sub-title extra04-color">
-                                          featured case study
+                                            featured case study
                                         </span>
                                         <h2 className="title">
                                             <Link href={`/case-study/${slugify(CaseStudyData[0].title)}`}>
                                                 <a>
-                                                    Building software for world changers{" "}
+                                                Qui Sommes Nous ? {" "}
                                                 </a>
                                             </Link>
                                         </h2>
                                         <p className="subtitle-2">
-                                            Donec metus lorem, vulputate at sapien sit amet, auctor
-                                            iaculis lorem. In vel hendrerit nisi. Vestibulum eget
-                                            risus velit. Aliquam tristique libero at dui sodales, et
-                                            placerat orci lobortis. Maecenas ipsum neque, elementum id
-                                            dignissim et, imperdiet vitae mauris.
+                                        Expert sud est un bureau en ingénierie de développement et transformation digitale qui intègre deux volets à la fois un bureau d études et le marketing digital. <br></br>
+                                        Notre équipe regroupe des experts stratèges, des spécialistes du marketing, des designers, des développeurs web.., qui travaille en collaboration avec nos partenaires clients. 
                                         </p>
                                         <Link href={`/case-study/${slugify(CaseStudyData[0].title)}`}>
                                             <a className="axil-button btn-large btn-transparent">
