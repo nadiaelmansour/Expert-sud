@@ -1,11 +1,20 @@
 import Head from 'next/head';
-import {useEffect, useState} from 'react';
-import {useInView} from 'react-intersection-observer';
+import { useEffect, useState } from 'react';
+import { useInView } from 'react-intersection-observer';
 import BannerSix from '../../components/banners/BannerSix';
 import CallToActionOne from '../../components/call-to-actions/CallToActionOne';
 import Layout from '../../components/layouts/Layout';
 import ServiceSection from '../../components/services/ServiceSection';
 import ServiceData from '../../data/Services.json';
+import js from '../../assets/img/js.png';
+import php from '../../assets/img/php.png';
+
+import sql from '../../assets/img/sql.png';
+import java from '../../assets/img/java.png';
+import Image from 'next/image';
+import html from '../../assets/img/html-5.png';
+import mysql from '../../assets/img/mysql.png';
+import node from '../../assets/img/nodejs.png';
 
 const Services = () => {
     const [activeServiceSection, setActiveServiceSection] = useState("");
@@ -40,8 +49,8 @@ const Services = () => {
 
     const handleStickyNav = () => {
         const scrollNavigationArea = document.querySelector(
-                ".axil-scroll-navigation"
-            ),
+            ".axil-scroll-navigation"
+        ),
             scrollNav = document.querySelector(".axil-scroll-nav"),
             sticky = scrollNavigationArea?.offsetTop;
 
@@ -54,7 +63,7 @@ const Services = () => {
         scrollNav?.classList.remove("is-affixed");
     };
 
-    const {ref, inView} = useInView({
+    const { ref, inView } = useInView({
         threshold: 0,
     });
 
@@ -79,7 +88,7 @@ const Services = () => {
             </Head>
 
             <main className="page-wrapper">
-                <BannerSix/>
+                <BannerSix />
 
                 <div
                     ref={ref}
@@ -89,9 +98,8 @@ const Services = () => {
                         <ul className="nav nav-pills justify-content-center sidebar__inner">
                             <li className="nav-item">
                                 <a
-                                    className={`nav-link smoth-animation ${
-                                        activeServiceSection === "section1" ? "active" : ""
-                                    }`}
+                                    className={`nav-link smoth-animation ${activeServiceSection === "section1" ? "active" : ""
+                                        }`}
                                     href="#section1"
                                 >
                                     marketing Digital
@@ -99,9 +107,8 @@ const Services = () => {
                             </li>
                             <li className="nav-item">
                                 <a
-                                    className={`nav-link smoth-animation ${
-                                        activeServiceSection === "section2" ? "active" : ""
-                                    }`}
+                                    className={`nav-link smoth-animation ${activeServiceSection === "section2" ? "active" : ""
+                                        }`}
                                     href="#section2"
                                 >
                                     Development
@@ -119,9 +126,8 @@ const Services = () => {
                             </li> */}
                             <li className="nav-item">
                                 <a
-                                    className={`nav-link smoth-animation ${
-                                        activeServiceSection === "section4" ? "active" : ""
-                                    }`}
+                                    className={`nav-link smoth-animation ${activeServiceSection === "section4" ? "active" : ""
+                                        }`}
                                     href="#section3"
                                 >
                                     Design
@@ -129,9 +135,8 @@ const Services = () => {
                             </li>
                             <li className="nav-item">
                                 <a
-                                    className={`nav-link smoth-animation ${
-                                        activeServiceSection === "section5" ? "active" : ""
-                                    }`}
+                                    className={`nav-link smoth-animation ${activeServiceSection === "section5" ? "active" : ""
+                                        }`}
                                     href="#section4"
                                 >
                                     Technology
@@ -139,9 +144,8 @@ const Services = () => {
                             </li>
                             <li className="nav-item">
                                 <a
-                                    className={`nav-link smoth-animation ${
-                                        activeServiceSection === "section6" ? "active" : ""
-                                    }`}
+                                    className={`nav-link smoth-animation ${activeServiceSection === "section6" ? "active" : ""
+                                        }`}
                                     href="#section5"
                                 >
                                     Content strategy
@@ -164,8 +168,23 @@ const Services = () => {
                             changeActiveSection={changeActiveSection}
                         />
                     ))}
+                    {/* technologies start */}
+                    <div className='container'>
+                        <div className='row'>
+                            <h4 className="row" style={{ justifyContent: "center", display: 'flex', marginBottom: 40 }}>technologies we use</h4>
+                            <div className='row' style={{ display: "flex", justifyContent: "space-between" }}>
+                                <Image src={php} width={90} height={90} />
+                                <Image src={java} width={90} height={90} />
+                                <Image src={sql} width={90} height={90} />
+                                <Image src={js} width={90} height={90} />
+                                <Image src={html} width={90} height={90} />
+                                <Image src={mysql} width={90} height={90} />
+                                <Image src={node} width={90} height={90} />
+                            </div>
+                        </div>
+                    </div>
                 </div>
-
+                {/* technologies end */}                    
                 {/* <CallToActionOne/> */}
             </main>
         </Layout>

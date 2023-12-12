@@ -172,6 +172,9 @@ abbr[title] {
   border-bottom: 1px dotted;
 }
 
+/* .pc{
+  background-image: url('../img/call-us.webp');
+} */
 b,
 strong {
   font-weight: bold;

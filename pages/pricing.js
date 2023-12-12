@@ -13,7 +13,7 @@ const Pricing = () => {
         <title>Pricing || Keystroke Creative Agency Bootstrap 5 Template</title>
       </Head>
 
-      <Breadcrumb title="Pricing" current="Pricing" />
+      {/* <Breadcrumb title="Pricing" current="Pricing" /> */}
 
       <main className="page-wrappper">
         <div className="axil-pricing-table-area pricing-shape-position ax-section-gap bg-color-lightest">
@@ -34,11 +34,11 @@ const Pricing = () => {
               ))}
             </div>
           </div>
-          <div className="shape-group">
+          {/* <div className="shape-group">
             <div className="shape">
               <i className="icon icon-shape-15"></i>
             </div>
-          </div>
+          </div> */}
         </div>
 
         <div className="axil-faq-area ax-section-gap bg-color-white">

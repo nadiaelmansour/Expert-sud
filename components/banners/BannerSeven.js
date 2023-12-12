@@ -41,7 +41,7 @@ const BannerSeven = (
                                     />
                                 </Tilt>
                             </div>
-                            <div className="shape-group">
+                            {/* <div className="shape-group">
                                 <div className="shape shape-1">
                                     <i className="icon icon-breadcrumb-1"/>
                                 </div>
@@ -51,7 +51,7 @@ const BannerSeven = (
                                 <div className="shape shape-3 customOne">
                                     <i className="icon icon-breadcrumb-3"/>
                                 </div>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </div>
