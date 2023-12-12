@@ -24,7 +24,7 @@ const BannerOne = () => {
                                     data-aos-duration="1000"
                                     data-aos-delay="200"
                                 >
-                                    Expert Sud est un bureau d tudes en ingénierie de développement et transformation digitale qui vous accompagne tout au long de votre projet avec la sincérité et le respect des règles de l art de la profession. 
+                                    Expert Sud est un bureau d tudes en ingénierie  <br></br> de développement et transformation digitale <br></br> qui vous accompagne  tout au long de votre <br></br> projet avec la sincérité et le respect <br></br> des règles de l art de la profession. 
                                     <br/>
                                 </p>
                                 <Link href="/portfolio">
@@ -33,7 +33,7 @@ const BannerOne = () => {
                                        data-aos-duration="1000"
                                        data-aos-delay="400">
                                         <span className="button-text">Commencez aujourd hui</span>
-                                        <span className="button-icon"/>
+                                        {/* <span className="button-icon"/> */}
                                     </a>
                                 </Link>
                             </div>
@@ -68,7 +68,7 @@ const BannerOne = () => {
                                             alt="Keystoke Images"
                                         />
                                     </div>
-                                    <div className="shape-group">
+                                    {/* <div className="shape-group">
                                         <div className="shape shape-1 paralax--1">
                                             <i className="icon icon-shape-05"/>
                                         </div>
@@ -78,7 +78,7 @@ const BannerOne = () => {
                                         <div className="shape shape-3 paralax--3">
                                             <i className="icon icon-shape-04"/>
                                         </div>
-                                    </div>
+                                    </div> */}
                                 </div>
                             </Tilt>
                         </div>

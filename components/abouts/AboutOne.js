@@ -1,5 +1,6 @@
 import ContactFormOne from "../forms/ContactFormOne";
-
+import call from '../../assets/img/call-us.webp';
+import Image from "next/image";
 const AboutOne = () => {
   return (
     <div className="axil-about-us-area ax-section-gap bg-color-white axil-shape-position">
@@ -15,14 +16,19 @@ const AboutOne = () => {
                 >
                   about us
                 </span>
-                <h2
+                
+                {/* <h2
                   className="title"
                   data-aos="aos-fade-in-up"
                   data-aos-duration="1000"
                   data-aos-delay="200"
                 >
                   Vous avez un projet ? Notre bureau vous aide également à le construire.   <br /> Contactez-nous!
-                </h2>
+                </h2> */}
+                <div className="image-fluid mt-5">
+                <Image src={call}/>
+                </div>
+                
                 <p
                   className="subtitle-2 mb--50 mb_lg--20 mb_md--20 mb_sm--15"
                   data-aos="aos-fade-in-up"
@@ -51,7 +57,7 @@ const AboutOne = () => {
                   <span className="text">Or call us now</span>
                   <span>
                     <i className="fal fa-phone-alt"></i>{" "}
-                    <a href="#">05 25 14 55 84</a>
+                    <a href="#">+ 2125 25 14 55 84</a>
                   </span>
                 </div>
               </div>
@@ -59,14 +65,14 @@ const AboutOne = () => {
           </div>
         </div>
       </div>
-      <div className="axil-shape-group">
+      {/* <div className="axil-shape-group">
         <div className="shape shape-1">
           <i className="icon icon-shape-12"></i>
         </div>
         <div className="shape shape-2">
           <i className="icon icon-shape-03"></i>
         </div>
-      </div>
+      </div> */}
     </div>
   );
 };

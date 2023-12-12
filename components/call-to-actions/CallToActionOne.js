@@ -32,7 +32,7 @@ const CallToActionOne = () => {
                     </div>
                 </div>
             </div>
-            <div className="shape-group">
+            {/* <div className="shape-group">
                 <div className="shape shape-01">
                     <i className="icon icon-shape-14"/>
                 </div>
@@ -45,7 +45,7 @@ const CallToActionOne = () => {
                 <div className="shape shape-04">
                     <i className="icon icon-shape-11"/>
                 </div>
-            </div>
+            </div> */}
         </div>
     );
 };
