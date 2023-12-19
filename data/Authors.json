@@ -9,8 +9,9 @@
       { "type": "facebook-f", "url": "https://www.facebook.com/" },
       { "type": "twitter", "url": "https://twitter.com/" },
       { "type": "linkedin", "url": "https://www.linkedin.com/" },
-      { "type": "instagram", "url": "https://www.instagram.com/" }
-      
+      { "type": "instagram", "url": "https://www.instagram.com/" },
+      {"type":  "vimeo", "icon": "fa-vimeo-v", "url":  "https://vimeo.com/"},
+      {"type":  "pinterest", "icon": "fa-pinterest-p", "url":  "https://www.pinterest.com/"}
     ]
   },
   {
@@ -23,7 +24,9 @@
       { "type": "facebook-f", "url": "https://www.facebook.com/" },
       { "type": "twitter", "url": "https://twitter.com/" },
       { "type": "linkedin", "url": "https://www.linkedin.com/" },
-      { "type": "instagram", "url": "https://www.instagram.com/" }
+      { "type": "instagram", "url": "https://www.instagram.com/" },
+      {"type":  "vimeo", "icon": "fa-vimeo-v", "url":  "https://vimeo.com/"},
+      {"type":  "pinterest", "icon": "fa-pinterest-p", "url":  "https://www.pinterest.com/"}
       
     ]
   },
@@ -37,7 +40,9 @@
       { "type": "facebook-f", "url": "https://www.facebook.com/" },
       { "type": "twitter", "url": "https://twitter.com/" },
       { "type": "linkedin", "url": "https://www.linkedin.com/" },
-      { "type": "instagram", "url": "https://www.instagram.com/" }
+      { "type": "instagram", "url": "https://www.instagram.com/" },
+      {"type":  "vimeo", "icon": "fa-vimeo-v", "url":  "https://vimeo.com/"},
+      {"type":  "pinterest", "icon": "fa-pinterest-p", "url":  "https://www.pinterest.com/"}
       
     ]
   },
@@ -51,7 +56,9 @@
       { "type": "facebook-f", "url": "https://www.facebook.com/" },
       { "type": "twitter", "url": "https://twitter.com/" },
       { "type": "linkedin", "url": "https://www.linkedin.com/" },
-      { "type": "instagram", "url": "https://www.instagram.com/" }
+      { "type": "instagram", "url": "https://www.instagram.com/" },
+      {"type":  "vimeo", "icon": "fa-vimeo-v", "url":  "https://vimeo.com/"},
+      {"type":  "pinterest", "icon": "fa-pinterest-p", "url":  "https://www.pinterest.com/"}
       
     ]
   }

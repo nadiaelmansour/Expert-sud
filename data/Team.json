@@ -9,7 +9,9 @@
       { "type": "facebook", "url": "#" },
       { "type": "twitter", "url": "#" },
       { "type": "linkedin", "url": "#" },
-      { "type": "instagram", "url": "#" }
+      { "type": "instagram", "url": "#" },
+      {"type":  "vimeo", "icon": "fa-vimeo-v", "url":  "#"},
+      {"type":  "pinterest", "icon": "fa-pinterest-p", "url":  "#"}
     ],
     "introduction": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus."
   },
@@ -23,7 +25,9 @@
       { "type": "facebook", "url": "#" },
       { "type": "twitter", "url": "#" },
       { "type": "linkedin", "url": "#" },
-      { "type": "instagram", "url": "#" }
+      { "type": "instagram", "url": "#" },
+      {"type":  "vimeo", "url":  "https://vimeo.com/"},
+      {"type":  "pinterest",  "url":  "https://www.pinterest.com/"}
     ],
     "introduction": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus."
   },
@@ -37,7 +41,9 @@
       { "type": "facebook", "url": "#" },
       { "type": "twitter", "url": "#" },
       { "type": "linkedin", "url": "#" },
-      { "type": "instagram", "url": "#" }
+      { "type": "instagram", "url": "#" },
+      {"type":  "vimeo", "url":  "https://vimeo.com/"},
+      {"type":  "pinterest",  "url":  "https://www.pinterest.com/"}
     ],
     "introduction": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus."
   },
@@ -51,7 +57,9 @@
       { "type": "facebook", "url": "#" },
       { "type": "twitter", "url": "#" },
       { "type": "linkedin", "url": "#" },
-      { "type": "instagram", "url": "#" }
+      { "type": "instagram", "url": "#" },
+      {"type":  "vimeo", "url":  "https://vimeo.com/"},
+      {"type":  "pinterest",  "url":  "https://www.pinterest.com/"}
     ],
     "introduction": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus."
   },
@@ -65,7 +73,9 @@
       { "type": "facebook", "url": "#" },
       { "type": "twitter", "url": "#" },
       { "type": "linkedin", "url": "#" },
-      { "type": "instagram", "url": "#" }
+      { "type": "instagram", "url": "#" },
+      {"type":  "vimeo", "url":  "https://vimeo.com/"},
+      {"type":  "pinterest",  "url":  "https://www.pinterest.com/"}
     ],
     "introduction": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus."
   },
@@ -79,7 +89,9 @@
       { "type": "facebook", "url": "#" },
       { "type": "twitter", "url": "#" },
       { "type": "linkedin", "url": "#" },
-      { "type": "instagram", "url": "#" }
+      { "type": "instagram", "url": "#" },
+      {"type":  "vimeo", "url":  "https://vimeo.com/"},
+      {"type":  "pinterest",  "url":  "https://www.pinterest.com/"}
     ],
     "introduction": "Phasellus in libero et nunc malesuada tincidunt. Morbi auctor tristique semper. Nunc condimentum dapibus felis, non volutpat ligula dapibus non. Quisque varius massa magna, eget iaculis ipsum tincidunt sed. Sed tempus magna id nunc posuere auctor. Morbi aliquam a justo eget cursus. Donec at quam id ex mollis dapibus eget ac sem. Maecenas pharetra bibendum massa, ut tincidunt lectus."
   }

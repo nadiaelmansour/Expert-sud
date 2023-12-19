@@ -34,6 +34,8 @@ const TeamDetails = ({teamData}) => {
         else if (type === "twitter") return "twitter";
         else if (type === "linkedin") return "linkedin-in";
         else if (type === "instagram") return "instagram";
+        else if (type === "vimeo") return "pinterest";
+        else if (type === "pinterest") return "pinterest";
         
     };
 
