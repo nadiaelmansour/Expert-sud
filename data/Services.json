@@ -299,29 +299,13 @@
           "id": 3,
           "title": "Social media marketing",
           "subtitle": "our four step process",
-          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
+          "description": "Le Social Media Marketing (marketing sur les réseaux sociaux) est une stratégie essentielle pour engager l'audience, promouvoir les marques et augmenter la notoriété en utilisant les plateformes sociales comme canal de communication privilégié.",
           "highlightColor": "extra06-color",
           "image": "/images/process/process-03.jpg"
         },
         {
           "id": 4,
           "title": "Events Agency",
-          "subtitle": "our four step process",
-          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
-          "highlightColor": "extra07-color",
-          "image": "/images/process/process-04.jpg"
-        },
-         {
-          "id": 4,
-          "title": "Website & Mobile app",
-          "subtitle": "our four step process",
-          "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
-          "highlightColor": "extra07-color",
-          "image": "/images/process/process-04.jpg"
-        },
-         {
-          "id": 4,
-          "title": "UI & UX & developement",
           "subtitle": "our four step process",
           "description": "Donec metus lorem, vulputate at sapien sit amet, auctor iaculis lorem. In vel hendrerit nisi. Vestibulum eget risus velit. Aliquam tristique libero at dui sodales, et placerat orci lobortis. Maecenas ipsum neque, elementum id dignissim et, imperdiet vitae mauris.",
           "highlightColor": "extra07-color",
@@ -392,7 +376,7 @@
     },
     "iconColorClass": "gradient-color-03",
     "title": "Social media marketing",
-    "description": "From simple Content Management System to complex eCommerce developer, we cover it all.",
+    "description": "Le Social Media Marketing (marketing sur les réseaux sociaux) est une stratégie essentielle pour engager l'audience, promouvoir les marques et augmenter la notoriété en utilisant les plateformes sociales comme canal de communication privilégié",
     "category": "Marketing Digital",
     "slug": "video-production",
     "process": {
