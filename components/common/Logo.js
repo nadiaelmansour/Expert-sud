@@ -2,7 +2,7 @@ const Logo = ({variant = 'one', fillTextColor = '#00004B'}) => {
     return (
         <svg width="281px" height="60px" viewBox="0 0 281 60" version="1.1">
             <title>Logo</title>
-            <desc>Created with Sketch.</desc>
+            <desc>Expert SUD website.</desc>
             <g id="Symbols"
                stroke="none"
                strokeWidth="1"
