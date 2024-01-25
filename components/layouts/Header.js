@@ -143,14 +143,11 @@ const Header = ({headerSetting = {}}) => {
 
                                         {(headerSettings.style !== "three" && headerSettings.style !== "four") && (
                                             <div className="ax-hamburger ml--40 ml_sm--10 d-none d-lg-block">
-                                                <button
-                                                    className="axil-menuToggle ax-hamburger-trigger"
-                                                    onClick={toggleSideNav}
-                                                >
+                                                
                                                     <span/>
                                                     <span/>
                                                     <span/>
-                                                </button>
+                                                
                                             </div>
                                         )}
 

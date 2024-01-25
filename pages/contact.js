@@ -166,9 +166,7 @@ const Contact = () => {
                                                             Notre service client est ouvert du lundi au vendredi, de 10h00 à 18h00
 
                                                         </div>
-                                                        <h5 className="h3">
-                                                            Salah Jones<span className="font-weight-light">, 27</span>
-                                                        </h5>
+                                                        
                                                         <div className="h5 font-weight-300">
                                                             <i className="ni location_pin mr-2"></i>
                                                             Agadir, Morocco

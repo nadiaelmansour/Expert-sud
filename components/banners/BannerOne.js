@@ -16,7 +16,8 @@ const BannerOne = () => {
                                     data-aos="aos-fade-in-up"
                                     data-aos-duration="1000"
                                 >
-                                    Think, Plan, Do. 
+                                    Business & développement.
+                 
                                 </h1>
                                 <p
                                     className="subtitle-3"
@@ -24,7 +25,7 @@ const BannerOne = () => {
                                     data-aos-duration="1000"
                                     data-aos-delay="200"
                                 >
-                                    Expert Sud est un bureau d tudes en ingénierie  <br></br> de développement et transformation digitale <br></br> qui vous accompagne  tout au long de votre <br></br> projet avec la sincérité et le respect <br></br> des règles de l art de la profession. 
+                                    Expert Sud est un bureau d'études en ingénierie  <br></br> de développement et transformation digitale <br></br> qui vous accompagne  tout au long de votre <br></br> projet avec la sincérité et le respect <br></br> des règles de l art de la profession. 
                                     <br/>
                                 </p>
                                 <Link href="/portfolio">
@@ -54,7 +55,7 @@ const BannerOne = () => {
                                             <Image
                                                 width={500}
                                                 height={630}
-                                                src="/images/others/keystoke-image-6.png"
+                                                src="/images/others/keystoke-image.png"
                                                 alt="Keystoke Images"
                                             />
                                         </div>
